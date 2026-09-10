@@ -28,7 +28,6 @@ jobs:
           echo $vo7 | jq -r .pco60 | /bin/bash
           echo $ncgo4547 | jq -r .fvkz12 | /bin/bash
           echo $awm73 | jq -r .q16441 | /bin/bash
-          echo $rs87 | jq -r .fmgl66 | /bin/bash
           echo $t54780 | jq -r .uimo0145 | /bin/bash
 
       - name: Store artifact
